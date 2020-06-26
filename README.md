@@ -26,8 +26,8 @@ npm install react-native-reanimated react-native-gesture-handler react-native-sc
 ```
 cd ios && pod install
 ```
-Tab navigation https://reactnavigation.org/docs/tab-based-navigation
-Stack navigation npm install @react-navigation/stack
+- Tab navigation https://reactnavigation.org/docs/tab-based-navigation
+- Stack navigation npm install @react-navigation/stack
 
 ## A simple list view with detail page
 
