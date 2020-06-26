@@ -16,6 +16,8 @@ See https://reactnative.dev/docs/environment-setup
 
 ## Navigation Basics
 - https://reactnavigation.org/
+`git checkout gh-2-navigation-basics`
+
 ```
 npm install @react-navigation/native
 ```
