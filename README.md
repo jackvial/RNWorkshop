@@ -11,9 +11,8 @@ See https://reactnative.dev/docs/environment-setup
 - Press the play button on the top left of XCode. The first compile and launching the simulator will be slow.
 - The app should launch in the similator
 
-## Your first component and rendering to the screen
-
-## Sytling
+## Your first component and rendering to the screen + basic styling
+- `git checkout gh-1-first-component`
 
 ## Navigation
 - https://reactnavigation.org/
