@@ -14,7 +14,7 @@ See https://reactnative.dev/docs/environment-setup
 ## Your first component and rendering to the screen + basic styling
 - `git checkout gh-1-first-component`
 
-## Navigation
+## Navigation Basics
 - https://reactnavigation.org/
 ```
 npm install @react-navigation/native
