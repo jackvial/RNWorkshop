@@ -10,3 +10,17 @@ See https://reactnative.dev/docs/environment-setup
 - Choose a target device (I recommend the iPhone 11 because it has the notch and we want to be sure we account for it)
 - Press the play button on the top left of XCode. The first compile and launching the simulator will be slow.
 - The app should launch in the similator
+
+## Your first component and rendering to the screen
+
+## Sytling
+
+## Navigation
+- https://reactnavigation.org/
+
+## A simple list view with detail page
+
+## Making HTTP Requests
+
+## Debugging with Flipper
+https://github.com/facebook/flipper
