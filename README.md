@@ -12,11 +12,11 @@ See https://reactnative.dev/docs/environment-setup
 - The app should launch in the similator
 
 ## Your first component and rendering to the screen + basic styling
-- `git checkout gh-1-first-component`
+`git checkout gh-1-first-component`
 
 ## Navigation Basics
-- https://reactnavigation.org/
 `git checkout gh-2-navigation-basics`
+- https://reactnavigation.org/
 
 ```
 npm install @react-navigation/native
